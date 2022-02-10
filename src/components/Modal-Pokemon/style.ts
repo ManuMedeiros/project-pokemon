@@ -18,6 +18,7 @@ export const backImage = styled.div`
 
 export const ImagePokemon = styled.img`
 
+
 `;
 
 export const NamePokemon = styled.p`
