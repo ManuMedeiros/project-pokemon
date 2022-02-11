@@ -18,7 +18,7 @@ export const backImage = styled.div`
 
 export const ImagePokemon = styled.img`
 
-
+gig
 `;
 
 export const NamePokemon = styled.p`
