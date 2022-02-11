@@ -14,6 +14,7 @@ export const Close = styled.img`
 
 export const backImage = styled.div`
     text-align: center;
+    
 `;
 
 export const ImagePokemon = styled.img`
